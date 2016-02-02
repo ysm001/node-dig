@@ -1,14 +1,14 @@
-# dig
+# node-dig
 This library enables you to access nested elements in Object.
 
 ## installation
 ```
-npm install --save dig
+npm install --save node-dig
 ```
 
 ## Usage
 ```js
-const dig = require('../lib/dig');
+const dig = require('node-dig');
 
 let object = {};
 
